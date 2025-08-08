@@ -1,2 +1,1 @@
-wait("0.2")
-loadstring(game:HttpGet("https://pastefy.app/O1yBSZ1G/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkscriptv2/GAW-SCRIPT/refs/heads/main/PetSpawner"))()
